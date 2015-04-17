@@ -1,0 +1,6 @@
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\MARS.exe.config
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\MARS.exe
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\MARS.pdb
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\obj\Debug\MARSNeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\obj\Debug\MARS.exe
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\obj\Debug\MARS.pdb
