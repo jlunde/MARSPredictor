@@ -4,3 +4,11 @@ C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\MARS.pdb
 C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\obj\Debug\MARSNeuralNetwork.csprojResolveAssemblyReference.cache
 C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\obj\Debug\MARS.exe
 C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\obj\Debug\MARS.pdb
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\AForge.dll
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\AForge.Genetic.dll
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\AForge.Math.dll
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\AForge.Neuro.dll
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\AForge.xml
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\AForge.Genetic.xml
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\AForge.Math.xml
+C:\Users\Joe\Documents\GitHub\MARSPredictor\MARS\MARS\bin\Debug\AForge.Neuro.xml
