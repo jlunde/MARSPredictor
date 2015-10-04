@@ -1,9 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MARSNeuralNetwork", "MARS\MARSNeuralNetwork.csproj", "{9646DAB7-9B6C-4867-A436-B14503C99E68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3844BB71-F038-4432-9C12-F1BB2F8B98E9}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MARSNFLParser", "MARSNFLParser\MARSNFLParser.csproj", "{5C13002C-010F-4DC9-BEDA-1563AD0D3EE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +24,10 @@ Global
 		{9646DAB7-9B6C-4867-A436-B14503C99E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9646DAB7-9B6C-4867-A436-B14503C99E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9646DAB7-9B6C-4867-A436-B14503C99E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C13002C-010F-4DC9-BEDA-1563AD0D3EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C13002C-010F-4DC9-BEDA-1563AD0D3EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C13002C-010F-4DC9-BEDA-1563AD0D3EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C13002C-010F-4DC9-BEDA-1563AD0D3EE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
